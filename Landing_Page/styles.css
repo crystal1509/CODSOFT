@@ -2,10 +2,10 @@
 
 :root {
     --header-height: 3rem;
-    --first-color: #FCA4A6;
-    --first-color-dark: #C1576A;
-    --first-color-darken: #A83E51;
-    --first-color: #FCF8F8;
+    --first-color: #f0afb1;
+    --first-color-dark: #1fcfcf;
+    --first-color-darken: #249090;
+    --white-color: #fcfcf8;
     --body-font: 'Poppins', sans-serif;
     --big-font-size: 2.5rem;
     --normal-font-size: .938rem;
